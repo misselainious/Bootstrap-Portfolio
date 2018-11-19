@@ -1,3 +1,15 @@
 .bg-info{
-    background-color: #c6ddb973 !important;
+    background-color: #dddcb99d !important;
+}
+.navbar-brand{
+    background-color: rgb(189, 186, 186);
+}
+.abt-container{
+    background-color: #dddcb99d;
+}
+.port-container{
+    background-color: rgba(245, 245, 245, 0.664);
+}
+.port-text{
+    color: #dddcb9;
 }
